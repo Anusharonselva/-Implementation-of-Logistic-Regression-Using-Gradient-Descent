@@ -112,9 +112,11 @@ np.mean(predict(res.x,X)==y)
 
 ## Output:
 
-![Screenshot (262)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/5bb3595e-0659-4091-b5b2-6141dea7f5a9)
+![Screenshot (292)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/0bf3f4f2-0e87-44aa-bfad-5b0bb23a5ef2)
 
-![Screenshot (262) 1](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/a609e2cd-180e-42bb-b67e-1104d04f0c5b)
+
+![Screenshot (292) 1](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/ede9d59a-e3f5-4e75-b872-73fa48e269ba)
+
 
 ![Screenshot (263)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/3a2b9e11-8db0-4269-9033-b63a850796b9)
 
@@ -124,14 +126,16 @@ np.mean(predict(res.x,X)==y)
 
 ![Screenshot (265) 1](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/eca4766c-2f32-4cc0-8416-6e5d5f5457c3)
 
-![Screenshot (266)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/72a67101-781b-4677-8516-4a4e79e61716)
+![Screenshot (293)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/a4315f6e-486f-4c52-8387-3428393f5d06)
 
 
 ![Screenshot (267)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/55560375-278d-4540-98e4-f4b7560781f8)
 
-![Screenshot (268)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/7f6b5296-2185-4a92-8458-20a5dbc86bad)
+![Screenshot (294)](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/3f3fe9bd-2d16-4693-8bd9-39c196ee8dfd)
 
-![Screenshot (268) 1](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/3f594fc8-6478-489c-a578-b29e51e84618)
+
+![Screenshot (294) 1](https://github.com/Anusharonselva/-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119405600/21f754eb-8d33-4a6d-9e5a-884c804ee36f)
+
 
 
 ## Result:
